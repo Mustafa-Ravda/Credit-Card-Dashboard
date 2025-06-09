@@ -1,6 +1,18 @@
 # Credit-Card-Dashboard
-
-
-
-
+![Slide1](https://github.com/user-attachments/assets/810593a7-b8cf-46c5-937a-2c140ad97c38)
+![Slide2](https://github.com/user-attachments/assets/f119c824-6585-448c-85a9-40c89e0c4f78)
+![Slide3](https://github.com/user-attachments/assets/8e77ea8e-3416-4ad6-bff8-32c155554078)
+![Slide4](https://github.com/user-attachments/assets/21773ecf-3729-4cd9-a409-bad4294db6a8)
+![Slide5](https://github.com/user-attachments/assets/cdfb7675-7d16-47d4-a69e-95491525c1e8)
+![Slide6](https://github.com/user-attachments/assets/d7d8484d-4567-45b7-8185-dfee22af4a6e)
+![Slide7](https://github.com/user-attachments/assets/2846e3ad-006b-4d93-8dfd-2bcf23cd86be)
+![Slide8](https://github.com/user-attachments/assets/ee80d22f-63da-4bce-8c21-24ffbece890b)
+![Slide9](https://github.com/user-attachments/assets/8cfe57e2-66ac-41a8-949e-9dc28589fd52)
+![Slide10](https://github.com/user-attachments/assets/0609fb47-a5cf-4710-8134-6ba2bcb1d3b9)
+![Slide11](https://github.com/user-attachments/assets/541b9580-8cde-458f-8bf9-c590c81d7e21)
+![Slide12](https://github.com/user-attachments/assets/a50303ba-7fa3-46bb-ac97-c6e214952faf)
+![Slide13](https://github.com/user-attachments/assets/db71ffa2-4112-4dc5-b63e-b23df7772b5f)
+![Slide14](https://github.com/user-attachments/assets/e167d097-f73a-4885-b395-449c564a1472)
+![Slide15](https://github.com/user-attachments/assets/0dd47903-bbc1-46d5-8cc7-70b09e84338b)
+![Slide16](https://github.com/user-attachments/assets/dfa639dc-ed25-45cf-b38d-1d972b4636a9)
 
